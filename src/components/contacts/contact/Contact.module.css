@@ -1,0 +1,46 @@
+.contactWithButtons{
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 0 auto 10px;
+}
+
+.contactButtonsBlock{
+    display: flex;
+    align-self: flex-start;
+}
+
+.contactWithButtons input{
+    border-radius: 6px;
+    outline: none;
+}
+
+.contactButtonsBlock button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+}
+
+.contactButtonsBlock button:hover{
+    cursor: pointer;
+}
+
+.contactButtonsBlock img{
+    margin-right: 0;
+}
+
+.contactWrapper{
+    margin-bottom: 15px;
+}
+
+.ikon{
+    width: 20px;
+    vertical-align: bottom;
+    margin-right: 15px;
+}
+
+.error{
+    border: 2px solid red;
+}

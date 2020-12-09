@@ -1,0 +1,28 @@
+.mainWrapper{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.contentWrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.contactsWrapper{
+    flex-grow: 1;
+}
+
+.otherOptionsWrapper{
+    align-self: flex-start;
+    border: 2px solid #fff;
+    margin: 10px 0 0 10px;
+    border-radius: 10px;
+    padding: 0 10px;
+    height: 100px;
+}
+
+.otherOptionsWrapper h5{
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}

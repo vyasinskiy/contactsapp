@@ -1,0 +1,26 @@
+.fieldWrapper{
+    position: relative;
+}
+
+.fieldWrapper{
+    margin-bottom: 5px;
+}
+
+.fieldWrapper input {
+    width: 100%;
+}
+
+.fieldInput{
+    outline: none;
+    border: none;
+    width: 100%;
+    border-radius: 2px;
+}
+
+.descriptionError{
+    font-size: 14px;
+}
+
+.fieldError{
+    box-shadow: 0 2px 2px red;
+}

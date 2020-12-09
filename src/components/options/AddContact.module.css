@@ -1,0 +1,13 @@
+.AddContactWrapper{
+    align-self: flex-start;
+    border: 2px solid #fff;
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+
+.AddContactWrapper h5{
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}

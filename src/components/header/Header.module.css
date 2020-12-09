@@ -1,0 +1,14 @@
+.headerWrapper{
+    height:50px;
+    padding: 10px 0;
+}
+
+.headerWrapper input{
+    width: 100%;
+    border: none;
+    outline: none;
+    height: 100%;
+    border-radius: 10px;
+    padding: 0 10px;
+}
+
